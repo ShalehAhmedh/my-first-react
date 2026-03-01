@@ -36,10 +36,10 @@ function App() {
 
       <Batsman></Batsman>
       <Counter></Counter>
-      {/* <h1 style={{ color: 'yellow' }}>I AM SHALEH</h1 >
+      <h1 style={{ color: 'yellow' }}>I AM SHALEH</h1 >
       <button onClick={handleClicked}>Add Me</button>
       <button onClick={handleClick}>Click Me!</button>
-      <button onClick={() => handleAdd(10)}>Add Number!</button> */}
+      <button onClick={() => handleAdd(10)}>Add Number!</button>
 
     </>
   )
